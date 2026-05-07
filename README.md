@@ -4,7 +4,7 @@
 | Name | Student ID |
 |------|-----------|
 | Rajdeep Saha | 100005470 |
-| Member 2 | XXXXXXX |
+| Yash Gadher | 100007325 |
 | Member 3 | XXXXXXX |
 
 ## Repository Structure
