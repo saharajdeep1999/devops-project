@@ -5,7 +5,7 @@
 |------|-----------|
 | Rajdeep Saha | 100005470 |
 | Yash Gadher | 100007325 |
-| Member 3 | XXXXXXX |
+| Nishchitha Seege Mallesha | 100007030 |
 
 ## Repository Structure
 ## Deliverable 1 — Run with Docker Compose
